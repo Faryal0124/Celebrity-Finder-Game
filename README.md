@@ -65,4 +65,24 @@ Eliminates non-celebrities step-by-step to find a candidate.
 - Time module
 
 ---
+# 📊 Learning Outcome
 
+- Understand algorithm optimization techniques in problem solving
+- Learn real-world application of data structures through the Celebrity Problem
+- Gain experience in GUI development using Tkinter
+- Analyze performance differences between Brute Force and optimized DCC algorithm
+
+  ---
+  
+# 🔮 Future Improvements
+
+- Add multiplayer mode for competitive gameplay
+- Implement leaderboard system to track high scores
+- Include sound effects and animations for better user experience
+- Integrate database to store user scores and progress
+
+---
+# 👩‍💻 Author
+- Faryal Saleem
+- Computer Science Student
+- Interested in AI and Web Development
