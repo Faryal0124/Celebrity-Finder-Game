@@ -65,11 +65,11 @@ Eliminates non-celebrities step-by-step to find a candidate.
 - Time module
 
 ---
-## How to Run
+## ▶️ How to Run
 
-Run the project using:
-python main.py
-This will launch the Celebrity Finder Game and display the GUI result window.
+- Run the project using:
+- python main.py
+- This will launch the Celebrity Finder Game and display the GUI result window.
 
 ## 📊 Learning Outcome
 
