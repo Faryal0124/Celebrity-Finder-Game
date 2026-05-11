@@ -65,7 +65,13 @@ Eliminates non-celebrities step-by-step to find a candidate.
 - Time module
 
 ---
-# 📊 Learning Outcome
+## How to Run
+
+Run the project using:
+python main.py
+This will launch the Celebrity Finder Game and display the GUI result window.
+
+## 📊 Learning Outcome
 
 - Understand algorithm optimization techniques in problem solving
 - Learn real-world application of data structures through the Celebrity Problem
@@ -74,7 +80,7 @@ Eliminates non-celebrities step-by-step to find a candidate.
 
   ---
   
-# 🔮 Future Improvements
+## 🔮 Future Improvements
 
 - Add multiplayer mode for competitive gameplay
 - Implement leaderboard system to track high scores
@@ -82,7 +88,7 @@ Eliminates non-celebrities step-by-step to find a candidate.
 - Integrate database to store user scores and progress
 
 ---
-# 👩‍💻 Author
+## 👩‍💻 Author
 - Faryal Saleem
 - Computer Science Student
 - Interested in AI and Web Development
